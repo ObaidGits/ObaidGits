@@ -1,106 +1,68 @@
-<h1 align="center">Hi there, I'm Obaidullah Zeeshan 👋</h1>
+<h1 align="center">Hey there, I'm Obaidullah Zeeshan 👋</h1>
+
 <p align="center">
-  <em>Full-Stack Developer | MERN Enthusiast | AI Hobbyist | B.Tech CSE Student</em>
+  <em>Full-Stack Developer | MERN Enthusiast | AI Explorer | B.Tech CSE Student</em>
 </p>
 
 <p align="center">
   <a href="mailto:obaidzeeshan.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/obaidullah-zeeshan/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ObaidGits"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/obaidullah-zeeshan/"><img src="https://img.shields.io/badge/LinkedIn-Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/ObaidGits"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering (Techno International Batanagar, CGPA: 7.6)
-- 💻 MERN Stack Developer | Python, Java, PHP | React, Next.js, Node.js, MongoDB
-- 🌐 Focused on Full-Stack Web Development and API Design
-- 🧠 Curious about AI/ML and Automation Projects
-- 🎯 Passionate about building user-centric web apps with clean UI & optimal UX
-- 🌍 Based in Kolkata, India
+I'm a passionate **Full-Stack Developer** and **B.Tech CSE** student based in Kolkata 🇮🇳. I build performant and scalable web applications using **React**, **Next.js**, **Node.js**, and **MongoDB**. I'm also diving deep into the world of **AI/ML**, automation, and developer tools.
+
+> "Creating seamless digital experiences that solve real-world problems — one line of code at a time."
 
 ---
 
-### 🚀 Tech Stack
+## ⚒️ Tech Stack & Tools
 
-- **Languages:** Java, Python, C, JavaScript, PHP  
-- **Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap  
-- **Backend:** Node.js, Express.js, PHP  
-- **Database:** MongoDB, MySQL  
-- **Dev Tools:** Git, GitHub, Netlify, Vercel, Render, Linux VPS  
-- **Other Skills:** REST API, JWT Auth, HTML, CSS, XML, JSP, JDBC
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-Intermediate-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-Basic-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
----
+### 🧩 Frameworks & Libraries
+![React](https://img.shields.io/badge/React.js-Professional-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-Advanced-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-Advanced-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### 🔨 My Projects
+### 🛢️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-Expert-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 📋 [Task Master – Task Management System](https://github.com/ObaidGits/task_management_system_nextjs_frontend)
-A full-stack task management platform built with **Next.js**, **Express.js**, and **MongoDB** to streamline employee workflows with authentication and CRUD features.
-
-#### 🏥 [Apollo 24/7 Clone](https://github.com/ObaidGits/apollo_clone_frontend)
-A clone of India's popular healthcare app with real-time doctor filtering, built using **Next.js**, **MongoDB**, and **Express**.
-
-#### 🌍 [Outbro.net](https://outbro.net)
-A platform for creative professionals to showcase portfolios and find clients. Full-stack MERN app with authentication and dynamic profiles.
-
-#### 🩺 [CredibleAssist.com](https://credibleassist.com)
-Medical assistance platform for travelers, built using HTML, CSS, Bootstrap, and PHP for a fast and responsive user experience.
-
-#### 🎓 [Student Management System – MERN CRUD](https://github.com/ObaidGits/mern-crud-frontend)
-A basic but powerful student manager with **React** frontend and **MongoDB/Node.js** backend. Perfect for beginners in full-stack dev.
-
-#### 🎙 [AI Podcaster](https://github.com/ObaidGits/ai_podcast_generator)
-An AI-powered podcast generator that turns prompts into speech using **OpenAI**, **ElevenLabs**, and **FFmpeg**.
-
-#### 💼 [Webzed – Freelancing Portfolio](https://my-webzed.netlify.app)
-Personal portfolio site to showcase services, manage contacts, and deliver freelance projects.
-
-#### 👘 [Traditional Wear Shop](#)
-E-commerce site for a traditional clothing brand built with **PHP**, **JavaScript**, and **MySQL**.
+### ⚙️ Dev Tools & Platforms
+![Git](https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-Deploy-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-Backend-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
-### 💼 Work Experience
-
-#### 🛠️ Outbro | Full-Stack Developer & Site Manager (Nov 2023 – Present)
-- Built and deployed scalable features using **React**, **Node.js**, and **MongoDB**
-- Handled performance tuning, cross-browser compatibility, and uptime monitoring
-- Worked with design/content teams to ensure optimized user experience
-
-#### 🛠️ Suhanasoftech | MERN Stack Developer (Sep 2022 – Oct 2023)
-- Developed dynamic full-stack applications using **React**, **Node**, **MongoDB**
-- Created reusable components and REST APIs
-- Enhanced app scalability and efficiency for live production
-
----
-
-### 📚 Education
-
-- 🎓 **B.Tech in Computer Science & Engineering**  
-  *Techno International Batanagar | 2022 – Present*  
-  CGPA: 7.6
-
-- 🏫 **12th (CISCE)** – St. Mary’s High School, Kolkata | 84.17%  
-- 🏫 **10th (CISCE)** – St. Mary’s High School, Kolkata | 84.00%
-
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ObaidGits&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ObaidGits&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ObaidGits&show_icons=true&theme=radical&hide=prs&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ObaidGits&layout=compact&theme=radical&langs_count=8" width="48%" />
 </p>
 
 ---
 
-### 📫 Contact Me
+## 🤝 Let's Connect
 
-- ✉️ Email: [obaidzeeshan.official@gmail.com](mailto:obaidzeeshan.official@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/obaidullah-zeeshan](https://linkedin.com/in/obaidullah-zeeshan)
-- 🐙 GitHub: [github.com/ObaidGits](https://github.com/ObaidGits)
+[![Email](https://img.shields.io/badge/Email-obaidzeeshan.official@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:obaidzeeshan.official@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-obaidullahzeeshan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obaidullah-zeeshan/)
+[![GitHub](https://img.shields.io/badge/GitHub-ObaidGits-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ObaidGits)
 
 ---
 
-> 🔥 "Code is like humor. When you have to explain it, it’s bad." — Cory House
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="footer wave"/>
+</div>
