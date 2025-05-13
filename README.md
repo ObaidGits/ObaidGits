@@ -48,11 +48,10 @@ I'm a passionate **Full-Stack Developer** and **B.Tech CSE** student based in Ko
 
 ## 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ObaidGits&show_icons=true&theme=radical&hide=prs&count_private=true" width="48%" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ObaidGits&layout=compact&theme=radical&langs_count=8" width="48%" height="180px" />
-</p>
-
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ObaidGits&show_icons=true&theme=radical&hide=prs&count_private=true" style="max-width: 48%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ObaidGits&layout=compact&theme=radical&langs_count=8" style="max-width: 48%; height: auto;" />
+</div>
 ---
 
 ## 🤝 Let's Connect
