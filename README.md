@@ -5,9 +5,15 @@
 </p>
 
 <p align="center">
-  <a href="mailto:obaidzeeshan.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/obaidullah-zeeshan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://obaidullah-zeeshan.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Projects-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:obaidzeeshan.official@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/obaidullah-zeeshan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://obaidullah-zeeshan.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -71,9 +77,14 @@ My focus areas:
 
 ## 📊 GitHub Insights
 
-<div align="center" style="display:flex; gap:10px; flex-wrap:wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ObaidGits&show_icons=true&theme=radical&hide=prs&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ObaidGits&layout=compact&theme=radical&langs_count=8" width="48%" />
+<div align="center" style="display:flex; flex-direction:column; gap:20px;">
+
+  <!-- 🔥 Streak / Activity -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ObaidGits&theme=dark&hide_border=false"/>
+
+  <!-- 📈 Summary Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ObaidGits&theme=dark"/>
+
 </div>
 
 ---
