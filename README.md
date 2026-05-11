@@ -4,7 +4,7 @@
 
 # 👨‍💻 Full-Stack Software Engineer • Backend Developer • AI Systems Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Backend+Engineering;AI-Powered+Applications;Real-Time+Systems;Rust+%7C+FastAPI+%7C+Docker" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Backend+Engineering;AI-Powered+Applications;Real-Time+Systems;LLMs+Machine-Learning+%7C+FastAPI+%7C+Docker" />
 
 <br/>
 
